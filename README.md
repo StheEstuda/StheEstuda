@@ -1,4 +1,14 @@
 ## Hi there 👋
+<!-- Cabeçalho -->
+
+#Titulo 1
+##Titulo 2
+###Titulo 3
+
+*italico* ou _italico_
+
+**negrito** ou __negrito__
+
 
 <!--
 **StheEstuda/StheEstuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
